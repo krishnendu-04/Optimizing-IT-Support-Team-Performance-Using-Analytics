@@ -43,11 +43,9 @@ This project focuses on analyzing IT support ticket data to identify performance
 
 ## 🛠 TOOLS USED :
 
-  - Data Analysis & Cleaning : Python (Pandas)
-  - Data Visualization: Power BI
-  - Dashboarding & Reporting: Power BI
-  - Platform: Jupyter Notebook
-  - Documentation: GitHub
+  - Data Handling : Python (Pandas,NumPy)
+  - Data Visualization: Power BI, matplotlib, seaborn, plotly
+  - Documentation: Jupyter Notebook, PDF Report, GitHub Repository
 
 ## 📌 CONCLUSION : 
 
