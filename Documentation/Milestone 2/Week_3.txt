@@ -1,1 +1,4 @@
-API_KEY = 'ABCD'
+WEEK 3
+
+We learnt about the relevance of live data import and documentation. Setup our GitHub Repo.
+Live data import is relevant and important since the companies are the 
