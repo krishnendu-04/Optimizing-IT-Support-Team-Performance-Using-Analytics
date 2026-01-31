@@ -16,7 +16,7 @@ This dataset represents IT support service desk tickets, from ticket creation to
 
 The dataset is suitable for analysis using Python and Power BI.
 ### 🔗 Data Source
-[Kaggle](https://www.kaggle.com/datasets/suvroo/technical-support-dataset/data)
+ [Kaggle](https://www.kaggle.com/datasets/suvroo/technical-support-dataset/data)
 
 ### 📄 What the Data Contains 
 Number of rows: 2330
